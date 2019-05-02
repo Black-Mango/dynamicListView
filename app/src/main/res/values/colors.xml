@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#cd2626</color>
+    <color name="green">#43cd80</color>
+    <color name="orange">#E57137</color>
+    <color name="doc_blue">#42AEBC</color>
+    //分隔条取色
+    <color name="divider">#cbcbcb</color>
+
+    //背景色取色
+    <color name="yl_bg_gray">#f0f0f0</color>
+    <color name="yl_bg_white">#ffffff</color>
+
+    //按钮背景取色
+    <color name="radiobg">#dbdbdb</color>
+
+    //系统主色调
+    <color name="yl_system_blue">#2e9eff</color>
+    <color name="bg_dialog">#FAFAFA</color>
+    //title字体颜色
+    <color name="yl_title_white">#ffffff</color>
+    //navigation 字体颜色
+    <color name="yl_navigation_blue">#1898f5</color>
+    //系统字体灰色
+    <color name="yl_tx_gray">#808080</color>
+    //系统字体黑色
+    <color name="yl_tx_black_bold">#000000</color>
+    <color name="yl_room_black">#aa000000</color>
+    <color name="yl_system_black">#cc000000</color>
+    //EditText边框取色
+    <color name="bg_border_gray">#a0a0a0</color>
+    <color name="bg_border_yellow">#ddf0a500</color>
+
+    <color name="btn_press_color">#5677fc</color>
+    <color name="btn_pressed_color">#3ca0ec</color>
+
+    <color name="color_black_333333">#333333</color>
+    <color name="color_red_f04c62">#f04c62</color>
+
+
+    <color name="colorPrimaryTrans">#CC00ce7d</color>
+</resources>
